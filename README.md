@@ -11,7 +11,7 @@ The following steps are used to run the pipeline:
     ```
 2. Clone the SDC-TrafficSignClassifier git repository
     ```  
-    $  git clone https://github.com/jfoshea/SDC-TrafficSignClassifier.git
+    $  git clone https://github.com/jfoshea/Traffic-Sign-Classifier.git
     ```
 
 3. enable cardnd-term1 virtualenv
@@ -26,5 +26,5 @@ The following steps are used to run the pipeline:
 The random traffic sign images are located in `random_traffic_signs` directory.
 
 ## Writeup 
-A detailed writeup of the classifier and challenges are located here [writeup] (https://github.com/jfoshea/SDC-TrafficSignClassifier/blob/master/writeup.md)
+A detailed writeup of the classifier and challenges are located here [writeup] (https://github.com/jfoshea/Traffic-Sign-Classifier/blob/master/writeup.md)
 
